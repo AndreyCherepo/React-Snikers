@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-snikers/static/css/main.a50a15c9.css",
+    "main.js": "/react-snikers/static/js/main.74715c27.js",
+    "index.html": "/react-snikers/index.html",
+    "main.a50a15c9.css.map": "/react-snikers/static/css/main.a50a15c9.css.map",
+    "main.74715c27.js.map": "/react-snikers/static/js/main.74715c27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a50a15c9.css",
+    "static/js/main.74715c27.js"
+  ]
+}
